@@ -2,6 +2,8 @@
 run the test.js with the "add" command followed by "--title:'[title]'" and "--body:'[body]'" to automatically a new json note with the tile and body appended
 
 Commands
+
+
 "add" command adds a title and a body to a new note NB:title and Body are required.NB:duplicate notes cant be added
 example (
 test.js add --title="title" --body="body"
